@@ -1,0 +1,19 @@
+p {
+    color: black;
+}
+h2,
+h3 {
+    color: blue;
+    width: 500px;
+}
+img[src] {
+    width: 200px;
+}
+a:hover {
+    color: rgb(238, 64, 238)
+
+}
+html {
+    font-size: 16px;
+    font-family: "verdana", sans-serif;
+}
