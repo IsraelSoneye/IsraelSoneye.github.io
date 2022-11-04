@@ -1,6 +1,11 @@
 p {
     color: black;
 }
+
+h1 {
+    text-align: center;
+}
+
 h2,
 h3 {
     color: blue;
